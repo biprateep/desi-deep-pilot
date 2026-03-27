@@ -1,0 +1,82 @@
+# File with the parameters for each telescope
+# Collecting Area (area in m^2), Field of View (FOV in deg^2), and Multiplexing capabilities
+# Citation links are provided for reference
+  4MOST:
+    area: 11.99
+    fov: 4.2
+    multiplex: 1624
+    citation: https://ui.adsabs.harvard.edu/abs/2019Msngr.175....3D
+  DESI:
+    area: 8.66
+    fov: 8
+    multiplex: 5000
+    citation: https://ui.adsabs.harvard.edu/abs/2022AJ....164..207D
+  WEAVE:
+    area: 12.7
+    fov: 3.1
+    multiplex: 960
+    citation: https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.2688J
+  Megamapper:
+    area: 28
+    fov: 7.1
+    multiplex: 26100
+    citation: https://ui.adsabs.harvard.edu/abs/2022arXiv220904322S
+  PFS:
+    area: 52.8
+    fov: 1.25
+    multiplex: 2400
+    citation: https://ui.adsabs.harvard.edu/abs/2016SPIE.9908E..1MT
+  MOONS:
+    area: 52
+    fov: 0.55
+    multiplex: 1000
+    citation: https://ui.adsabs.harvard.edu/abs/2020Msngr.180...10C
+  DEIMOS:
+    area: 72
+    fov: 0.018
+    multiplex: 150
+    citation: https://ui.adsabs.harvard.edu/abs/2003SPIE.4841.1657F
+  FOBOS:
+    area: 72
+    fov: 0.1
+    multiplex: 1800
+    citation: https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.198B
+  WST:
+    area: 113
+    fov: 3.1
+    multiplex: 20000
+    citation: https://ui.adsabs.harvard.edu/abs/2024arXiv240512518B
+  
+  MANIFEST-GMACS:
+    area: 368
+    fov: 0.087
+    multiplex: 380
+    citation:
+      - https://ui.adsabs.harvard.edu/abs/2022SPIE12184E..17Z
+      - https://ui.adsabs.harvard.edu/abs/2018SPIE10702E..1XD/
+  WFOS:
+    area: 633.45
+    fov: 0.007
+    multiplex: 100
+    citation: https://ui.adsabs.harvard.edu/abs/2022SPIE12184E..23S
+  MOSAIC-Optical:
+    area: 978
+    fov: 0.01
+    multiplex: 200
+    citation: https://ui.adsabs.harvard.edu/abs/2024SPIE13096E..15P/
+  MOSAIC-NIR:
+    area: 978
+    fov: 0.01
+    multiplex: 100
+    citation: https://ui.adsabs.harvard.edu/abs/2024SPIE13096E..15P/
+  MUST:
+    area: 30
+    fov: 6.16
+    multiplex: 21170
+    citation: https://ui.adsabs.harvard.edu/abs/2024arXiv241107970Z
+  Spec-S5:
+    area: 19
+    fov: 3.7
+    multiplex: 12850
+    citation: https://ui.adsabs.harvard.edu/abs/2025arXiv250307923B
+  
