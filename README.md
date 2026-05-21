@@ -2,7 +2,7 @@
 
 Documentation, codes and catalogs accompanying our paper, Deep Spectroscopy with DESI for Photometric Redshift Training and Calibration by Biprateep Dey, Jeffrey A. Newman and the DESI Collaboration members.
 
-Website: biprateep.github.io/desi-deep-pilot
+Website: [biprateep.github.io/desi-deep-pilot](https://biprateep.de/desi-deep-pilot/) | Article on arXiv: https://arxiv.org/abs/2604.06143
 
 Contact: biprateep@pitt.edu | janewman@pitt.edu
 
